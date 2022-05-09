@@ -1,13 +1,10 @@
 ### Hi there 👋, my name is Roger
 ![](https://www.kindpng.com/picc/m/141-1419051_github-icon-png-transparent-png.png)
 
-Recently started to code in Java and eager to learn! Check out my profile for more info.
+Skills: Java, MySQL, Spring, Git. Check out my profile for more info.
 
-Skills: Java
-
-- 🔭 I’m currently working on small coding challenges 
-- 🌱 I’m currently learning the Java basics! 
-- 👯 I’m looking to collaborate on entry-level coding challenges and projects 
+- 🔭 I’m currently studying Software Engineering at the Amsterdam University of Applied Sciences
+- 👯 looking to collaborate on entry-level coding challenges and projects 
 - 😄 Pronouns: He/him 
 
 
