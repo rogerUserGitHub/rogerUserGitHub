@@ -1,5 +1,4 @@
 ### Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px">, my name is Roger
-![](https://www.kindpng.com/picc/m/141-1419051_github-icon-png-transparent-png.png)
 
 - 🔭 I’m currently studying Software Engineering at the Amsterdam University of Applied Sciences
 - ⭐ Working full-time as a .NET Developer in Amsterdam
