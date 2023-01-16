@@ -2,7 +2,7 @@
 
 - 🔭 finished my studies in Software Engineering at the Amsterdam University of Applied Sciences
 - ⭐ working full-time as a .NET Developer in Amsterdam
-- 👯 looking to collaborate on entry-level coding challenges and projects 
+- 👯 looking to collaborate on coding challenges and projects 
 - ⭐ portfolio site: https://react-portfolio-rdirkx.netlify.app/
 
 ### Languages
