@@ -1,8 +1,7 @@
 ### Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px">, my name is Roger
 
 - 🔭 finished my studies in Software Engineering at the Amsterdam University of Applied Sciences
-- ⭐ working full-time as a .NET Developer in Amsterdam
-- 👯 looking to collaborate on coding challenges and projects 
+- 👯 working full-time as a .NET Developer in Amsterdam
 - ⭐ portfolio site: https://react-portfolio-rdirkx.netlify.app/
 
 ### Languages
