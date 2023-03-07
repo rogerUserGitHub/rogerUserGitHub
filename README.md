@@ -2,6 +2,7 @@
 
 - 🔭 finished my studies in Software Engineering at the Amsterdam University of Applied Sciences
 - 👯 working full-time as a .NET/Full Stack Developer in Amsterdam
+- 👯 volunteering as Front End Developer (React Native) for Aidy Health in Geneva
 - ⭐ portfolio site: https://react-portfolio-rdirkx.netlify.app/
 
 ### Languages
