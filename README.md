@@ -1,7 +1,7 @@
 ### Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px">, my name is Roger
 
 - 🔭 studied Software Engineering at the Amsterdam University of Applied Sciences
-- 👯 working full-time as a Full Stack Stack Developer in Geneva
+- 👯 working full-time as a Full Stack Stack Developer (Java/Spring/React) in Geneva
 - 👯 volunteering as a Front End Developer (React Native) for Aidy Health in Geneva
 - ⭐ portfolio site: https://react-portfolio-rdirkx.netlify.app/
 
