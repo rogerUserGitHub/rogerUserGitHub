@@ -2,7 +2,6 @@
 
 - 🔭 studied Software Engineering at the Amsterdam University of Applied Sciences
 - 👯 working full-time as a Full Stack Stack Developer (Java/Spring/React) in Geneva
-- 👯 volunteering as a Front End Developer (React Native) for Aidy Health in Geneva
 - ⭐ portfolio site: https://react-portfolio-rdirkx.netlify.app/
 
 ### Languages
