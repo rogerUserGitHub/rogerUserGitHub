@@ -2,7 +2,7 @@
 
 - 🔭 studied Software Engineering at the Amsterdam University of Applied Sciences
 - 👯 working full-time as a Full Stack Stack Developer (Java/Spring/React) in Geneva
-- ⭐ portfolio site: https://react-portfolio-rdirkx.netlify.app/
+- ⭐ portfolio site: https://dirkx-portfolio.netlify.app/
 
 ### Languages
 
