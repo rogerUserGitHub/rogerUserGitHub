@@ -3,6 +3,7 @@
 - 🔭 studied Software Engineering at the Amsterdam University of Applied Sciences
 - 👯 working full-time as a Full Stack Stack Developer (Java/Spring/React) in Geneva
 - ⭐ portfolio site: www.dirkx.dev
+- ⭐ web design services: www.uxbloom.ch
 
 ### Languages
 
